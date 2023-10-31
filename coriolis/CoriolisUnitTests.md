@@ -1,5 +1,7 @@
 # Coriolis Unit Tests
 
+## Environment in Docker container
+
 Create an Ubuntu container as an unit test environment:
 
 ```bash
