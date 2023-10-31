@@ -1,2 +1,3 @@
-# docs
-Docs
+# Docs
+
+All kind of docs.
